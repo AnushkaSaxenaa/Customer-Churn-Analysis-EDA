@@ -49,5 +49,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any queries or suggestions, feel free to reach out:
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/anushka2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/anushka2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
